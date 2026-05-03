@@ -20,7 +20,7 @@ A multi-page website showcasing cities in South Carolina, including population d
 ---
 
 ## 🌐 Live Website
-👉 https://your-username.github.io/sc-state-website/
+👉 https://anjeemolina.github.io/sc-state-website/
 
 ---
 
